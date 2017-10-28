@@ -76,6 +76,7 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [nikw92](https://github.com/nikw92)
  - [LucasVC800](https://github.com/LucasVC800)
  - [rickMcGavin](https://github.com/rickMcGavin)
+ - [Yusadolat](https://github.com/yusadolat)
  - [Celesteessel](https://github.com/celesteessel)
  - [James](http://github.com/jamesmlee)
  - [Heather Fenton](https://github.com/hfenton)
